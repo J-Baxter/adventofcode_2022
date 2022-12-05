@@ -2,9 +2,7 @@
 # Day 4
 
 import pandas as pd
-import numpy as np
 import os
-import difflib
 
 os.chdir('/Users/s1506888/Documents/PhD4/adventofcode_2022')
 
